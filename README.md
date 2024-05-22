@@ -1,5 +1,14 @@
 # 유학생 홈스테이 중개 서비스
 
+### 👥 팀 소개
+|  팀원  |   담당 파트    |                     깃허브 주소                      |
+| ---- | ------------- | -------------------------------------------       |
+| 권혁준 |  요구사항정의서 작성 |  [red-dev-Mark](https://github.com/red-dev-Mark)  |
+| 김난아 |  기능정의서 작성 |   [nanafromjeju](https://github.com/nanafromjeju)  |
+| 신혜진 |  다이어그램 작성  |   [clara-shin](https://github.com/clara-shin)      |
+| 송병훈 |  프로젝트정의서 작성  |   [sbs1253](https://github.com/sbs1253)            |
+| 임효정 |  리드미 작성  |   [dyeongg](https://github.com/dyeongg)            |
+
 ## 프로젝트 정의
 
 유학생 홈스테이 중개 서비스는 해외 유학생들이 안전하고 인증된 해당 국가의 홈스테이 숙소를 쉽게 찾을 수 있도록 지원하는 서비스입니다.<br>
