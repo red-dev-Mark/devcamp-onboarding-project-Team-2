@@ -1,9 +1,4 @@
-
 # 🏠 유학생 홈스테이 중개 서비스
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HOWSTAY%20Github!&fontSize=90" />	
-</div>
-
 ![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
 
 <div align=center>
@@ -22,7 +17,9 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/red-dev-Mark/devcamp-onboarding-project-Team-2)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/red-dev-Mark/devcamp-onboarding-project-Team-2?color=0088ff)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/red-dev-Mark/devcamp-onboarding-project-Team-2?color=0088ff)
+</div>
 
+---
 
 <div align=center>
  
@@ -61,14 +58,28 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
+---
 
-## 프로젝트 정의
+## 목차
+- [❓ 프로젝트 정의  ](-#프로젝트-정의)
+- [🛠 시작하기](-#시작하기)
+  - [설치](#설치)
+  - [실행](#실행)
+  - [배포](#배포)
+  - [문서](#문서)
+- [📄 프로젝트 구조](-#프로젝트-구조)
+
+
+## ❓ 프로젝트 정의
 
 유학생 홈스테이 중개 서비스는 해외 유학생들이 안전하고 인증된 해당 국가의 홈스테이 숙소를 쉽게 찾을 수 있도록 지원하는 서비스입니다.<br>
 유학생과 호스트를 매칭하고, 인증 절차를 통해 안전한 숙소를 제공하며, 사용자 리뷰와 평가를 통해 신뢰성을 높입니다.<br>
 해외 유학생과 홈스테이 호스트를 대상으로 하며, 주로 유학생 소속 해외 대학교와의 연계를 통해 인증된 호스트 목록을 제공합니다.
 
-## 설치
+---
+
+## 🛠 시작하기
+### 설치
 
 유학생 홈스테이 중개 서비스는 서버와 클라이언트 시스템으로 구성되며 Javascript 와 Nodejs 기반으로 구성되어있습니다.<br>
 프로젝트 저장소를 다음 설명에 따라 개발자 컴퓨터에 복사하고 설치 명령을 입력하여 설치를 할 수 있습니다.
@@ -87,7 +98,7 @@ npm install
 * [Git - Downloads](https://git-scm.com/downloads)
 * [Node.js — Download Node.js®](https://nodejs.org/en/download/current)
 
-## 실행
+### 실행
 
 개발자 로컬 환경에서 개발 모드로 실행하기 위해선 프로젝트 루트 디렉토리에서 다음의 명령을 실행하세요.
 
@@ -95,7 +106,7 @@ npm install
 npm run dev 
 ```
 
-## 배포
+### 배포
 
 프로젝트의 배포 버전을 생성하기 위해 빌드 스크립트를 실행합니다.
 
@@ -107,7 +118,7 @@ npm run build:production
 운영 환경 빌드는 build:production 스크립트를 사용해주세요.
 
 
-## 문서
+### 문서
 
 프로젝트 설계 문서는 design 디렉토리에 마크다운 파일로 기록되어있습니다.
 각각의 설계 문서는 다음과 같습니다.
@@ -119,3 +130,15 @@ npm run build:production
   * 요구사항 정의서를 기반으로 프로젝트를 설계합니다.
 * 기능 정의서
   * 사용자 스토리 기반으로 세부 기능을 정의합니다.
+---
+
+## 📄 프로젝트 구조
+```
+📦devcamp-onboarding-project-Team-2
+ ┣ 📂design
+ ┃ ┣ 📜기능정의서.md
+ ┃ ┣ 📜요구사항정의서.md
+ ┃ ┗ 📜프로젝트정의서.md
+ ┣ 📜.gitignore
+ ┗ 📜README.md
+```
