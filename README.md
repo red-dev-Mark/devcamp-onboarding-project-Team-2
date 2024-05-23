@@ -1,17 +1,57 @@
+
+# 🏠 유학생 홈스테이 중개 서비스
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HOWSTAY%20Github!&fontSize=90" />	
+</div>
+
 ![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
 
-# 유학생
+<div align=center>
+ 
+## 👋 Team 👋
+|<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70564622?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|Mark Kwon<br/>[@red-dev-Mark](https://github.com/red-dev-Mark)|[@nanafromjeju](https://github.com/nanafromjeju)|Hyejin<br/>[@clara-shin](https://github.com/clara-shin)|SongByeonghun<br/>[@sbs1253](https://github.com/sbs1253)|[@dyeongg](https://github.com/dyeongg)|
+</div>
+<br/>
 
- 홈스테이 중개 서비스
+<div align=center>
+ 
+## 📚 Tech Stack 📚
+</div>
 
-## 팀 소개
-|  팀원  |   담당 파트    |                     깃허브 주소                      |
-| ---- | ------------- | -------------------------------------------       |
-| 권혁준 |  요구사항정의서 작성 |  [red-dev-Mark](https://github.com/red-dev-Mark)  |
-| 김난아 |  기능정의서 작성 |   [nanafromjeju](https://github.com/nanafromjeju)  |
-| 신혜진 |  다이어그램 작성  |   [clara-shin](https://github.com/clara-shin)      |
-| 송병훈 |  프로젝트정의서 작성  |   [sbs1253](https://github.com/sbs1253)            |
-| 임효정 |  리드미 작성  |   [dyeongg](https://github.com/dyeongg)            |
+<div align=center>
+
+### 🧑‍💻 Front-end 🧑‍💻
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🧑‍💻 back-end 🧑‍💻
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 💻 Database 💻
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
+-----
+
+<div align=center>
+
+#### 🛠 Tools 🛠
+</div>
+
+<div align=center>
+
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
 
 ## 프로젝트 정의
 
