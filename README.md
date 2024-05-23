@@ -16,6 +16,15 @@
 <br/>
 
 <div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fred-dev-Mark%2Fdevcamp-onboarding-project-Team-2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/red-dev-Mark/devcamp-onboarding-project-Team-2)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/red-dev-Mark/devcamp-onboarding-project-Team-2)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/red-dev-Mark/devcamp-onboarding-project-Team-2?color=0088ff)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/red-dev-Mark/devcamp-onboarding-project-Team-2?color=0088ff)
+
+
+<div align=center>
  
 ## 📚 Tech Stack 📚
 </div>
