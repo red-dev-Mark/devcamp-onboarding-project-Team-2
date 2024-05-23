@@ -1,4 +1,6 @@
-# 유학생![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
+![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
+
+# 유학생
 
  홈스테이 중개 서비스
 
