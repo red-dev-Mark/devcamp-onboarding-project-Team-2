@@ -1,6 +1,9 @@
 # <img src="https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/95f77c0f-b1ba-49c9-ab8d-08858fe65259" width="50" height="50" align='center'/> 해외 유학생 홈스테이 중개 서비스 HowStay
 <div align=center>
  
+![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
+![메인페이지](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/9407b25c-550c-4d6c-9e56-fefa64ec3ad2)
+
 ## 👋 Team 👋
 |[<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>](https://github.com/red-dev-Mark)|[<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>](https://github.com/clara-shin)|[<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>](https://github.com/dyeongg)|[<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>](https://github.com/nanafromjeju)|[<img src="https://avatars.githubusercontent.com/u/70564622?v=4" width="150" height="150"/>](https://github.com/sbs1253)|
 |:-:|:-:|:-:|:-:|:-:|
@@ -16,10 +19,6 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/red-dev-Mark/devcamp-onboarding-project-Team-2?color=0088ff)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/red-dev-Mark/devcamp-onboarding-project-Team-2?color=0088ff)
 </div>
-
-![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
-![메인페이지](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/9407b25c-550c-4d6c-9e56-fefa64ec3ad2)
-
 
 ---
 
