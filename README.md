@@ -4,11 +4,11 @@
 <div align=center>
  
 ## 👋 Team 👋
-|<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70564622?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70564622?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|Mark Kwon<br/>[@red-dev-Mark](https://github.com/red-dev-Mark)|[@nanafromjeju](https://github.com/nanafromjeju)|Hyejin<br/>[@clara-shin](https://github.com/clara-shin)|SongByeonghun<br/>[@sbs1253](https://github.com/sbs1253)|[@dyeongg](https://github.com/dyeongg)|
-</div>
+|총괄: 권혁준<br/>[@red-dev-Mark](https://github.com/red-dev-Mark)|기획: 신혜진<br/>[@clara-shin](https://github.com/clara-shin)|기획: 임효정 <br/>[@dyeongg](https://github.com/dyeongg)|디자인: 김난아<br/>[@nanafromjeju](https://github.com/nanafromjeju)|디자인: 송병훈<br/>[@sbs1253](https://github.com/sbs1253)|
 <br/>
+</div>
 
 <div align=center>
 	
@@ -59,9 +59,26 @@
 </div>
 
 ---
-
+## 📄 프로젝트 구조
+```
+📦devcamp-onboarding-project-Team-2
+ ┣ 📂design
+ ┃ ┣ 📜기능정의서.md
+ ┃ ┣ 📜요구사항정의서.md
+ ┃ ┗ 📜프로젝트정의서.md
+ ┣ 📜.gitignore
+ ┗ 📜README.md
+```
 ## 목차
-- [❓ 프로젝트 정의  ](#-프로젝트-정의)
+- [🏠 HowStay ](#-howstay)
+  - [❓ 프로젝트 정의  ](#-프로젝트-정의)
+  - [❓ 목적  ](#목적)
+  - [❓ 배경  ](#배경)
+    - [1. 필요성  ](#1-필요성)
+    - [2. 문제 ](#2-문제)
+    - [3. 이해관계자  ](#3-이해관계자)
+    - [4. 범위  ](#4-범위)
+    - [5. 목표 및 기대 효과  ](#5-목표-달성-기대-효과)
 - [🛠 시작하기](#-시작하기)
   - [1. 설치](#설치)
   - [2. 실행](#실행)
@@ -70,11 +87,39 @@
 - [📄 프로젝트 구조](#-프로젝트-구조)
 
 
+# 🏠 HowStay
+
 ## ❓ 프로젝트 정의
 
 유학생 홈스테이 중개 서비스는 해외 유학생들이 안전하고 인증된 해당 국가의 홈스테이 숙소를 쉽게 찾을 수 있도록 지원하는 서비스입니다.<br>
-유학생과 호스트를 매칭하고, 인증 절차를 통해 안전한 숙소를 제공하며, 사용자 리뷰와 평가를 통해 신뢰성을 높입니다.<br>
+유학생과 호스트를 매칭하고, 인증 절차를 통해 안전한 숙소를 제공하며, 신뢰성을 높입니다.<br>
 해외 유학생과 홈스테이 호스트를 대상으로 하며, 주로 유학생 소속 해외 대학교와의 연계를 통해 인증된 호스트 목록을 제공합니다.
+
+## 목적
+유학생들이 안전하고 신뢰할 수 있는 인증된 홈스테이 숙소를 쉽게 찾고, 호스트에게는 임대 기회를 제공하는 서비스 구축.
+
+## 배경
+
+### 1. 필요성
+- 유학생들이 안전하고 신뢰할 수 있는 숙소를 찾는 데 어려움이 있음.
+
+### 2. 문제
+- 신뢰성 부족
+- 복잡한 절차
+- 언어 장벽
+
+### 3. 이해관계자
+- 유학생
+- 호스트
+- 고객 지원 팀
+
+### 4. 범위
+- 유학생과 호스트를 대상으로 하며, 특히 해외 대학교와 연계된 인증된 호스트를 우선함.
+
+### 5. 목표 달성 기대 효과
+- 신뢰성 향상
+- 편리한 검색 및 예약
+- 언어 지원
 
 ---
 
@@ -132,13 +177,4 @@ npm run build:production
   * 사용자 스토리 기반으로 세부 기능을 정의합니다.
 ---
 
-## 📄 프로젝트 구조
-```
-📦devcamp-onboarding-project-Team-2
- ┣ 📂design
- ┃ ┣ 📜기능정의서.md
- ┃ ┣ 📜요구사항정의서.md
- ┃ ┗ 📜프로젝트정의서.md
- ┣ 📜.gitignore
- ┗ 📜README.md
-```
+
