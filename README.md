@@ -1,4 +1,4 @@
-# 🏠 유학생 홈스테이 중개 서비스
+# <img src="https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/95f77c0f-b1ba-49c9-ab8d-08858fe65259" width="50" height="50" align='center'/> 해외 유학생 홈스테이 중개 서비스 HowStay
 ![Thumbnail](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/170427166/641a78b2-db58-44c9-abfa-0cb2360d5684)
 
 <div align=center>
@@ -6,7 +6,7 @@
 ## 👋 Team 👋
 |<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70564622?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|총괄: 권혁준<br/>[@red-dev-Mark](https://github.com/red-dev-Mark)|기획: 신혜진<br/>[@clara-shin](https://github.com/clara-shin)|기획: 임효정 <br/>[@dyeongg](https://github.com/dyeongg)|디자인: 김난아<br/>[@nanafromjeju](https://github.com/nanafromjeju)|디자인: 송병훈<br/>[@sbs1253](https://github.com/sbs1253)|
+|**총괄** 😎권혁준<br/>[@red-dev-Mark](https://github.com/red-dev-Mark)|**기획** 🐲신혜진<br/>[@clara-shin](https://github.com/clara-shin)|**기획** 🐬임효정 <br/>[@dyeongg](https://github.com/dyeongg)|**디자인** 🐈‍⬛김난아<br/>[@nanafromjeju](https://github.com/nanafromjeju)|**디자인** 🦥송병훈<br/>[@sbs1253](https://github.com/sbs1253)|
 <br/>
 </div>
 
@@ -70,8 +70,8 @@
  ┗ 📜README.md
 ```
 ## 목차
-- [🏠 HowStay ](#-howstay)
-  - [❓ 프로젝트 정의  ](#-프로젝트-정의)
+- [<img src="https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/95f77c0f-b1ba-49c9-ab8d-08858fe65259" width="15" height="15" align='center'/>&nbsp; HowStay ](#-howstay)
+  - [❓ 프로젝트 소개  ](#-프로젝트-소개)
   - [❓ 목적  ](#목적)
   - [❓ 배경  ](#배경)
     - [1. 필요성  ](#1-필요성)
@@ -80,16 +80,16 @@
     - [4. 범위  ](#4-범위)
     - [5. 목표 및 기대 효과  ](#5-목표-달성-기대-효과)
 - [🛠 시작하기](#-시작하기)
-  - [1. 설치](#설치)
-  - [2. 실행](#실행)
-  - [3. 배포](#배포)
-  - [4. 문서](#문서)
-- [📄 프로젝트 구조](#-프로젝트-구조)
+  - [설치](#설치)
+  - [실행](#실행)
+  - [배포](#배포)
+  - [문서](#문서)
+- [📷 프로젝트 예시  ](#-프로젝트-예시)
+  - [🔎 로그인 및 회원가입  ](#-로그인-및-회원가입)
+  - [🔎 사용자 화면  ](#-사용자-화면)
+# <img src="https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/95f77c0f-b1ba-49c9-ab8d-08858fe65259" width="30" height="30" align='center'/> HowStay
 
-
-# 🏠 HowStay
-
-## ❓ 프로젝트 정의
+## ❓ 프로젝트 소개
 
 유학생 홈스테이 중개 서비스는 해외 유학생들이 안전하고 인증된 해당 국가의 홈스테이 숙소를 쉽게 찾을 수 있도록 지원하는 서비스입니다.<br>
 유학생과 호스트를 매칭하고, 인증 절차를 통해 안전한 숙소를 제공하며, 신뢰성을 높입니다.<br>
@@ -120,6 +120,33 @@
 - 신뢰성 향상
 - 편리한 검색 및 예약
 - 언어 지원
+
+## 📷 프로젝트 예시
+
+### 🔎 [로그인 및 회원가입]
+- 서비스 접속 초기 화면으로 로그인 및 회원가입 후 시작 페이지가 나타납니다.
+- SNS(카카오톡, 구글, 페이스북) 로그인 기능을 사용하여 로그인할 수 있습니다.
+
+| 로그인 및 회원가입 |
+|----------|
+|![start page](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/ff9ecaae-8ffc-4466-bce0-a0107f357d47)|
+
+<br>
+
+### 🔎 [사용자 화면]
+#### 로그인 후 화면
+- 사용자가 로그인하면 숙소 리스트가 표시됩니다.
+- 각 숙소는 기본 정보(사진, 위치, 가격 등)와 함께 목록에 나열됩니다.
+#### 필터 기능
+- 사용자는 다양한 필터 옵션을 사용하여 맞춤형 검색을 할 수 있습니다.
+  - 가격 범위: 사용자가 원하는 가격대를 설정할 수 있습니다.
+  - 위치: 특정 지역이나 대학교 근처 등 원하는 위치를 선택할 수 있습니다.
+  - 기타 옵션: 예를 들어, Wi-Fi 제공 여부, 식사 포함 여부 등의 추가 옵션을 선택할 수 있습니다.
+- 필터를 적용하면, 선택한 조건에 맞는 숙소 리스트가 즉시 업데이트되어 표시됩니다.
+
+| 사용자 화면 |
+|----------|
+|![search page](https://github.com/red-dev-Mark/devcamp-onboarding-project-Team-2/assets/70564622/d82bf2dc-a40c-4a70-9790-7f22fdbf69bc)|
 
 ---
 
